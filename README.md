@@ -12,7 +12,7 @@ Download the project from [github](https://github.com/jldaluddung/ImageSearch_cy
 cd /your/project/path
 ```
 
-Install Cypress for Mac, Linux, or Windows in the project path
+Install Cypress in the project path
 ```bash
 npm install cypress --save-dev
 ```
