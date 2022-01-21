@@ -20,7 +20,7 @@ npm install cypress --save-dev
 ## Running the test from Cypress
 Open cypress by invoking the following command in the project root
 ```bash
-npm cypress open
+npm run cypress:open
 ```
 Once cypress loads, select on the spec.js test or click Run integration tests.
 
